@@ -1,6 +1,6 @@
-    The Sea-Change
+    # The Sea-Change
 
-    By Ernest Christopher Dowson
+    **By Ernest Christopher Dowson**
 
     Where river and ocean meet in a great tempestuous frown,
     Beyond the bar, where on the dunes the white-capped rollers break;
@@ -10,8 +10,8 @@
     Which crowns one day with all its calm the passionate and the weak.
 
     When the mad winds are unreined, wilt thou not storm, my sea?
-    (I have ever loved thee so, I have ever done thee wrong
-    In drear terrestrial ways.) When I trust myself to thee
+    (*I have ever loved thee so, I have ever done thee wrong
+    In drear terrestrial ways.*) When I trust myself to thee
     With a last great hope, arise and sing thine ultimate, great song
     Sung to so many better men, O sing at last to me,
     That which when once a man has heard, he heeds not over long.
@@ -23,6 +23,6 @@
     All that I know in all my mind shall no more have a place:
     The weary ways of men and one woman I shall forget.
 
-    Point du Pouldu.
+    > Point du Pouldu.
     
-    http://www.public-domain-poetry.com/ernest-christopher-dowson/sea-change-14279
+    [title] http://www.public-domain-poetry.com/ernest-christopher-dowson/sea-change-14279
